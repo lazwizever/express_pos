@@ -5,10 +5,11 @@ const customer = require('./Routes/customer')
 const user = require ('./routes/user')
 const item = require('./routes/item')
 const order = require ('./routes/orders')
-const orderDetail = require ('./routes/OrderDetails')
+const orderDetail = require ('./routes/orderDetail')
 
 const app = express()
 const port = 4000
+
 
 app.use(express.json())
 app.use('/customer', customer)
