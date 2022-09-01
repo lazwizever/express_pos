@@ -4,7 +4,7 @@ const express = require('express')
 const customer = require('./Routes/customer')
 const user = require ('./routes/user')
 const item = require('./routes/item')
-const order = require ('./routes/Order')
+const order = require ('./routes/orders')
 const orderDetail = require ('./routes/OrderDetails')
 
 const app = express()
