@@ -1,0 +1,22 @@
+{
+  "name": "express_pos",
+  "version": "1.0.0",
+  "description": "Implent with mysql and express js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazwizever/express_pos.git"
+  },
+  "author": "lazWizever",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazwizever/express_pos/issues"
+  },
+  "homepage": "https://github.com/lazwizever/express_pos#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
